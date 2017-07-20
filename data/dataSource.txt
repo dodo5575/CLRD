@@ -1,0 +1,15 @@
+Death rate: https://www.healthdata.gov/dataset/nchs-age-adjusted-death-rates-top-10-leading-causes-death-united-states-2013
+
+Number of hospital by state in the US: http://www.kff.org/other/state-indicator/total-hospitals/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+
+PM25: https://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html#Annual
+
+Smoking rate: https://nccd.cdc.gov/STATESystem/rdPage.aspx?rdReport=OSH_State.CustomReports
+
+Median Household Income by State: https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html
+
+Population: https://en.wikipedia.org/wiki/List_of_U.S._states_by_historical_population
+
+Temperature: https://www.ncdc.noaa.gov/cag/time-series/us/1/0/tavg/3/3/1999-2013
+
+
